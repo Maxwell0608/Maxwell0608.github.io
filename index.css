@@ -1,0 +1,51 @@
+
+h1 {
+	background-color: brown;
+    color: white;
+    font-family: "comic sans ms";
+    font-size: 430%;
+    text-align: center;
+    border-radius: 45px;
+}
+
+body {
+	background-image: url("pic2.jpg");
+    font-size: 100%;
+}
+
+img {
+    border-radius: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 250px;
+    height: 250px; 
+	display:block;
+}
+
+
+.index, .index2 {
+	font-family: "comic";
+	font-size: 400%;
+    text-align: center;
+    text-align: center;
+}
+
+
+a:link {
+    color: hotpink;
+}
+
+/* visited link */
+a:visited {
+    color: hotpink;
+}
+
+/* mouse over link */
+a:hover {
+    color: white;
+}
+
+/* selected link */
+a:active {
+    color: blue;
+}
