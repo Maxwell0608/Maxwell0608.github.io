@@ -10,9 +10,15 @@ body {
     font-size: 100%;
 }
 
-p {
+.index {
+    text-align: left;
     color: white;
     font-family: "comic sans ms";
-    font-size: 300%;
-    text-align: center;
+    font-size: 200%;
 }
+
+.p1 {
+    text-align: center;
+    color: blue;
+}
+
