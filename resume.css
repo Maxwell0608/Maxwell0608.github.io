@@ -1,7 +1,7 @@
 h1 {
     color: white;
     font-family: "comic sans ms";
-    font-size: 430%;
+    font-size: 200%;
     text-align: center;
 }
 
@@ -10,15 +10,17 @@ body {
     font-size: 100%;
 }
 
-.index {
-    text-align: left;
+div {
+    text-align: center;
     color: white;
     font-family: "comic sans ms";
-    font-size: 200%;
+    font-size: 130%;
 }
 
-.p1 {
-    text-align: center;
-    color: blue;
-}
+p {
+    text-align: left;
+    color: yellow;
+    font-family: "comic sans ms";
+    font-size: 120%;
 
+}
