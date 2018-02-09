@@ -1,0 +1,18 @@
+h1 {
+    color: white;
+    font-family: "comic sans ms";
+    font-size: 430%;
+    text-align: center;
+}
+
+body {
+	background-image: url("mug.jpg");
+    font-size: 100%;
+}
+
+p {
+    color: white;
+    font-family: "comic sans ms";
+    font-size: 300%;
+    text-align: center;
+}
