@@ -1,6 +1,5 @@
 h1 {
-	background-color: brown;
-    color: white;
+    color: hotpink;
     font-family: "comic sans ms";
     font-size: 430%;
     text-align: center;
@@ -8,15 +7,13 @@ h1 {
 }
 
 body {
-	background-image: url("pic2.jpg");
+	background-image: url("mug.jpg");
     font-size: 100%;
 }
 
-img {
-    border-radius: 50%;
-    margin-left: auto;
-    margin-right: auto;
-    width: 250px;
-    height: 250px; 
-	display:block;
+p {
+    color: white;
+    font-family: "comic sans ms";
+    font-size: 300%;
+    text-align: center;
 }
