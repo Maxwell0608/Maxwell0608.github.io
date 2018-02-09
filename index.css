@@ -1,4 +1,3 @@
-
 h1 {
 	background-color: brown;
     color: white;
@@ -22,7 +21,6 @@ img {
 	display:block;
 }
 
-
 .index, .index2 {
 	font-family: "comic";
 	font-size: 400%;
@@ -30,22 +28,18 @@ img {
     text-align: center;
 }
 
-
 a:link {
     color: hotpink;
 }
 
-/* visited link */
 a:visited {
     color: hotpink;
 }
 
-/* mouse over link */
 a:hover {
     color: white;
 }
 
-/* selected link */
 a:active {
     color: blue;
 }
